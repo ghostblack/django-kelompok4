@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'djongo',
         'NAME': 'Flask',
         'CLIENT': {
-           'host': 'mongodb+srv://ghostblack:kfbLcKqWxdmYRnMr@flask.qc7wx.mongodb.net/Flask?retryWrites=true&w=majority',
+           'host': 'mongodb+srv://asmaul:12345asmaul@flask.qc7wx.mongodb.net/Flask?retryWrites=true&w=majority',
         }
     }
 }
